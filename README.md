@@ -9,9 +9,6 @@
   <a href="https://www.facebook.com/asraful.islam.asf72/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height="25">
   </a>
-  <a href="https://www.instagram.com/asrafulasf_72/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25">
-  </a>
   <a href="https://x.com/Asraful42943111" target="_blank">
     <img src="https://img.shields.io/badge/Twitter%20(X)-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" height="25">
   </a>
