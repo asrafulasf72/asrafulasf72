@@ -1,4 +1,22 @@
-![MERN Stack Developer | Problem-Solver | Passionate About Functional & Beautiful Web Apps](https://media.licdn.com/dms/image/v2/D5616AQHpyEdvidUuTQ/profile-displaybackgroundimage-shrink_350_1400/B56ZqazoMgHYAY-/0/1763533818991?e=1765411200&v=beta&t=Vk7lSjazM9M_db9HyEW6c4lv6RHbaVHYxht_QQsaHWc)
+<!-- Header Image -->
+<img src="https://i.ibb.co.com/5xB9ZDbd/Screenshot-197.png" alt="GitHub README header image">
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/asrafulasf/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25">
+  </a>
+  <a href="https://www.facebook.com/asraful.islam.asf72/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height="25">
+  </a>
+  <a href="https://www.instagram.com/asrafulasf_72/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25">
+  </a>
+  <a href="https://x.com/Asraful42943111" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%20(X)-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" height="25">
+  </a>
+</p>
+
 ### Hi there 👋, Asraful Islam | Crafting Digital Experiences with Code & Creativity
 #### MERN Stack Developer | Problem-Solver | Passionate About Functional & Beautiful Web Apps
 
@@ -7,8 +25,7 @@ I’m constantly exploring new technologies, improving my craft, and creating pr
 - 🔭 I’m currently working on Project Zapify  
 - 🌱 I’m currently learning typescript, mysql
 
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asrafulasf72)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/asrafulasf/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/asraful.islam.asf72) 
-
+  
 <h3>When I code, I rely on</h3>
 
 
@@ -33,7 +50,7 @@ I’m constantly exploring new technologies, improving my craft, and creating pr
 
 ![GitHub metrics](https://metrics.lecoq.io/asrafulasf72)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=asrafulasf72)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=asrafulasf72&theme=highcontrast)](https://git.io/streak-stats)
 
 
 
