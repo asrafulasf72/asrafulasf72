@@ -12,6 +12,9 @@
   <a href="https://x.com/Asraful42943111" target="_blank">
     <img src="https://img.shields.io/badge/Twitter%20(X)-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" height="25">
   </a>
+  <a href="https://asrafulasf-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF9800.svg?&style=for-the-badge&logo=vercel&logoColor=white" height="25">
+  </a>
 </p>
 
 ### Hi there 👋, Asraful Islam | Crafting Digital Experiences with Code & Creativity
