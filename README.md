@@ -22,7 +22,7 @@
 
 I’m a MERN Stack Developer who loves turning ideas into smooth, meaningful digital experiences. I approach development with a blend of logic and creativity writing clean code, shaping intuitive UI, and building products that feel good to use.
 I’m constantly exploring new technologies, improving my craft, and creating projects that solve real problems. Every line of code I write reflects my curiosity, passion, and drive to grow as a modern web developer..
-- 🔭 I’m currently working on Health Care Platform 
+- 🔭 I’m currently working on Shopify theme Development
 - 🌱 I’m currently learning Next js
 
   
